@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheShivaniLakkaraju
 - 👀 I’m interested in developing gene therapies for rare, genetic muscle diseases
-- 🌱 I’m currently learning genomics and bioinformatics techniques
+- 🌱 I’m currently learning single cell genomics and bioinformatics techniques
 
 
 <!---
